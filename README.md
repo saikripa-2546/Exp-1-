@@ -11,6 +11,7 @@ Identify user needs (customer, admin, staff).
 Define functional requirements: login, balance check, withdrawal, deposit, transfer, PIN change.
 Define non-functional requirements: speed, security, reliability, and usability.
 
+
 Step 3: System Design
 Draw UML diagrams to represent the system:
 Use Case Diagram
